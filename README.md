@@ -13,7 +13,9 @@ First, download vChromebook from [here](https://drive.google.com/file/d/1fMEW_0H
 C:\Program Files (x86)\vChromebook\files
 ```
 If you have not turned on Windows Hypervisor Platform, search up "Turn windows features on or off", then look for Windows Hypervisor Platform, and check it. This is done for acceleration of ChromeOS.
+
 Now run CMD or press Win+R, and type in "chromebook". Wait about a few seconds, and if you see a screen, it works!
+
 Once you're done, turn off the VM by clicking on the bottom right corner and pressing the off button. It should return to normal.
 
 # Notes
