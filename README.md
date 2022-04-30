@@ -8,7 +8,7 @@ Chromebook VM for Windows devices made easier, running on QEMU.
 - Windows Hypervisor Platform
 
 # How to use
-First, download vChromebook from [here](https://drive.google.com/u/0/uc?id=1I_3073gPdl2zFFill6e8JKJM83hp5lm0&export=download). Once you have downloaded it, extract it, and run these commands:
+First, download vChromebook from [here](https://drive.google.com/u/0/uc?id=1I_3073gPdl2zFFill6e8JKJM83hp5lm0&export=download). Once you have downloaded it, extract it, and run these commands on an admin-priveledged command prompt:
 ```
 mv files "C:\Program Files (x86)\vChromebook"
 cd C:\Program Files (x86)\vChromebook
