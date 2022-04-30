@@ -18,7 +18,7 @@ rm chromeos_14516.0.0_reven_recovery_dev-channel_mp-v2.bin.zip
 ```
 Once finished installing, open "Edit the system enviroment variables", look for PATH, and add this:
 ```
-C:\Program Files (x86)\vChromebook\files
+C:\Program Files (x86)\vChromebook
 ```
 If you have not turned on Windows Hypervisor Platform, search up "Turn windows features on or off", then look for Windows Hypervisor Platform, and check it. This is done for acceleration of ChromeOS.
 
