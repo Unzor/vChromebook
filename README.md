@@ -4,7 +4,7 @@ Chromebook VM for Windows devices made easier, running on QEMU.
 # Requirements
 - 4GB of RAM
 - At least 8.1GB of storage
-- Latest release of Windows 10 or 11, no other OS
+- Latest release of Windows 10 or 11, but not before Windows 10
 - Windows Hypervisor Platform
 
 # How to use
